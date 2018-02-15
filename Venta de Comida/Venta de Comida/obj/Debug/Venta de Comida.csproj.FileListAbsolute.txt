@@ -1,0 +1,10 @@
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\bin\Debug\Venta de Comida.exe.config
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\bin\Debug\Venta de Comida.exe
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\bin\Debug\Venta de Comida.pdb
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta de Comida.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta_de_Comida.Venta.resources
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta_de_Comida.Properties.Resources.resources
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta de Comida.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta de Comida.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta de Comida.exe
+C:\Users\Luis\Desktop\Miscelania de Programitas\Visual\Venta de Comida\Venta de Comida\obj\Debug\Venta de Comida.pdb
